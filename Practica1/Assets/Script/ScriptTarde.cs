@@ -7,6 +7,7 @@ public class ScriptTarde : MonoBehaviour {
 	public GameObject objeto=null;
 	// Use this for initialization
 	void Start () {
+		Casa C = new Casa ();
 		Debug.Log ("Hello World");
 		Debug.Log("Numero Veces: "+numeroVeces );
 		Debug.Log ("Mi Nombre: " + this.gameObject.name);
@@ -20,6 +21,13 @@ public class ScriptTarde : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+		miFuncion(4,5);
+	}
+
+	void miFuncion (int valor1, int valor2)
+	{
+		int suma = valor1 + valor2;
+		Debug.Log ("Suma: " + suma);
 		
 	}
 }
