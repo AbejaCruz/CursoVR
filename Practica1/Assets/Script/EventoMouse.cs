@@ -18,7 +18,11 @@ public class EventoMouse : MonoBehaviour {
 		this.gameObject.transform.position = new Vector3 (1, 1, 1);
 	}
 	void OnMouseOver(){
-		this.gameObject.GetComponent<Renderer> ().material.color = Color.black;
+		if (this.gameObject.name.Equals ("Cube")) {
+			this.gameObject.GetComponent<Renderer> ().material.color = Color.black;
+		} else if (this.gameObject.name.Equals ("Cilindro")) {
+			this.gameObject.GetComponent<Renderer> ().material.color = Color.green;
+		}
 
 	}
 	void OnMouseExit(){
