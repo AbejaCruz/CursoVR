@@ -38,6 +38,11 @@ public class Transformaciones: MonoBehaviour {
 		if (Input.GetKeyDown (KeyCode.K)) {
 			GameObject.Find ("Manejador").GetComponent<Funcionalidad> ().llamada (0);
 		}
+		if(Input.GetKeyDown(KeyCode.B)){
+			GameObject.Find("Padre").SendMessage("llamadaBM");//Busca solo al padre
+			GameObject.Find("Padre").BroadcastMessage("llamadaBM");	//Busca en el padre y en el hijo
+
+		}
 }
 
 }
