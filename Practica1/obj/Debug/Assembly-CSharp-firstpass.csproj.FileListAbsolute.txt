@@ -1,6 +1,5 @@
-C:\Users\Abeja\Documents\Respositorios\CursoVr\Practica1\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
-C:\Users\Abeja\Documents\Respositorios\CursoVr\Practica1\Temp\bin\Debug\Assembly-CSharp.dll
-C:\Users\Abeja\Documents\Respositorios\CursoVr\Practica1\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Abeja\Documents\Respositorios\CursoVr\Practica1\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Abeja\Documents\Respositorios\CursoVr\Practica1\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
 C:\Users\Abeja\Documents\Respositorios\CursoVr\Practica1\Temp\bin\Debug\UnityEditor.dll
 C:\Users\Abeja\Documents\Respositorios\CursoVr\Practica1\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
 C:\Users\Abeja\Documents\Respositorios\CursoVr\Practica1\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
@@ -27,6 +26,6 @@ C:\Users\Abeja\Documents\Respositorios\CursoVr\Practica1\Temp\bin\Debug\UnityEng
 C:\Users\Abeja\Documents\Respositorios\CursoVr\Practica1\Temp\bin\Debug\UnityEngine.Analytics.xml
 C:\Users\Abeja\Documents\Respositorios\CursoVr\Practica1\Temp\bin\Debug\UnityEngine.HoloLens.xml
 C:\Users\Abeja\Documents\Respositorios\CursoVr\Practica1\Temp\bin\Debug\UnityEngine.VR.xml
-C:\Users\Abeja\Documents\Respositorios\CursoVr\Practica1\obj\Debug\Assembly-CSharp.dll
-C:\Users\Abeja\Documents\Respositorios\CursoVr\Practica1\obj\Debug\Assembly-CSharp.pdb
-C:\Users\Abeja\Documents\Respositorios\CursoVr\Practica1\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Abeja\Documents\Respositorios\CursoVr\Practica1\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\Abeja\Documents\Respositorios\CursoVr\Practica1\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Abeja\Documents\Respositorios\CursoVr\Practica1\obj\Debug\Assembly-CSharp-firstpass.pdb
