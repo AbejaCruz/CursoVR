@@ -1,0 +1,58 @@
+F:\Txasti\2017 04 Colombia\Unity\Dia UI\PracticaUI\Practica UI\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+F:\Txasti\2017 04 Colombia\Unity\Dia UI\PracticaUI\Practica UI\Temp\bin\Debug\Assembly-CSharp.dll
+F:\Txasti\2017 04 Colombia\Unity\Dia UI\PracticaUI\Practica UI\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\Txasti\2017 04 Colombia\Unity\Dia UI\PracticaUI\Practica UI\Temp\bin\Debug\UnityEditor.dll
+F:\Txasti\2017 04 Colombia\Unity\Dia UI\PracticaUI\Practica UI\Temp\bin\Debug\UnityEngine.Analytics.dll
+F:\Txasti\2017 04 Colombia\Unity\Dia UI\PracticaUI\Practica UI\Temp\bin\Debug\UnityEngine.dll
+F:\Txasti\2017 04 Colombia\Unity\Dia UI\PracticaUI\Practica UI\Temp\bin\Debug\UnityEngine.HoloLens.dll
+F:\Txasti\2017 04 Colombia\Unity\Dia UI\PracticaUI\Practica UI\Temp\bin\Debug\UnityEngine.Networking.dll
+F:\Txasti\2017 04 Colombia\Unity\Dia UI\PracticaUI\Practica UI\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+F:\Txasti\2017 04 Colombia\Unity\Dia UI\PracticaUI\Practica UI\Temp\bin\Debug\UnityEngine.UI.dll
+F:\Txasti\2017 04 Colombia\Unity\Dia UI\PracticaUI\Practica UI\Temp\bin\Debug\UnityEngine.VR.dll
+F:\Txasti\2017 04 Colombia\Unity\Dia UI\PracticaUI\Practica UI\Temp\bin\Debug\Mono.Cecil.dll
+F:\Txasti\2017 04 Colombia\Unity\Dia UI\PracticaUI\Practica UI\Temp\bin\Debug\Unity.SerializationLogic.dll
+F:\Txasti\2017 04 Colombia\Unity\Dia UI\PracticaUI\Practica UI\Temp\bin\Debug\Unity.DataContract.dll
+F:\Txasti\2017 04 Colombia\Unity\Dia UI\PracticaUI\Practica UI\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+F:\Txasti\2017 04 Colombia\Unity\Dia UI\PracticaUI\Practica UI\Temp\bin\Debug\Unity.UNetWeaver.dll
+F:\Txasti\2017 04 Colombia\Unity\Dia UI\PracticaUI\Practica UI\Temp\bin\Debug\Unity.CecilTools.dll
+F:\Txasti\2017 04 Colombia\Unity\Dia UI\PracticaUI\Practica UI\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+F:\Txasti\2017 04 Colombia\Unity\Dia UI\PracticaUI\Practica UI\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+F:\Txasti\2017 04 Colombia\Unity\Dia UI\PracticaUI\Practica UI\Temp\bin\Debug\UnityEngine.xml
+F:\Txasti\2017 04 Colombia\Unity\Dia UI\PracticaUI\Practica UI\Temp\bin\Debug\UnityEditor.xml
+F:\Txasti\2017 04 Colombia\Unity\Dia UI\PracticaUI\Practica UI\Temp\bin\Debug\UnityEngine.UI.xml
+F:\Txasti\2017 04 Colombia\Unity\Dia UI\PracticaUI\Practica UI\Temp\bin\Debug\UnityEngine.Networking.xml
+F:\Txasti\2017 04 Colombia\Unity\Dia UI\PracticaUI\Practica UI\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+F:\Txasti\2017 04 Colombia\Unity\Dia UI\PracticaUI\Practica UI\Temp\bin\Debug\UnityEngine.Analytics.xml
+F:\Txasti\2017 04 Colombia\Unity\Dia UI\PracticaUI\Practica UI\Temp\bin\Debug\UnityEngine.HoloLens.xml
+F:\Txasti\2017 04 Colombia\Unity\Dia UI\PracticaUI\Practica UI\Temp\bin\Debug\UnityEngine.VR.xml
+F:\Txasti\2017 04 Colombia\Unity\Dia UI\PracticaUI\Practica UI\obj\Debug\Assembly-CSharp.dll
+F:\Txasti\2017 04 Colombia\Unity\Dia UI\PracticaUI\Practica UI\obj\Debug\Assembly-CSharp.pdb
+F:\Txasti\GoogleDrive\Curro\2017 02 Colombia\CURSO\Dia UI\Practica2\Temp\bin\Debug\Assembly-CSharp.dll
+F:\Txasti\GoogleDrive\Curro\2017 02 Colombia\CURSO\Dia UI\Practica2\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\Txasti\GoogleDrive\Curro\2017 02 Colombia\CURSO\Dia UI\Practica2\Temp\bin\Debug\UnityEditor.dll
+F:\Txasti\GoogleDrive\Curro\2017 02 Colombia\CURSO\Dia UI\Practica2\Temp\bin\Debug\UnityEngine.Analytics.dll
+F:\Txasti\GoogleDrive\Curro\2017 02 Colombia\CURSO\Dia UI\Practica2\Temp\bin\Debug\UnityEngine.dll
+F:\Txasti\GoogleDrive\Curro\2017 02 Colombia\CURSO\Dia UI\Practica2\Temp\bin\Debug\UnityEngine.HoloLens.dll
+F:\Txasti\GoogleDrive\Curro\2017 02 Colombia\CURSO\Dia UI\Practica2\Temp\bin\Debug\UnityEngine.Networking.dll
+F:\Txasti\GoogleDrive\Curro\2017 02 Colombia\CURSO\Dia UI\Practica2\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+F:\Txasti\GoogleDrive\Curro\2017 02 Colombia\CURSO\Dia UI\Practica2\Temp\bin\Debug\UnityEngine.UI.dll
+F:\Txasti\GoogleDrive\Curro\2017 02 Colombia\CURSO\Dia UI\Practica2\Temp\bin\Debug\UnityEngine.VR.dll
+F:\Txasti\GoogleDrive\Curro\2017 02 Colombia\CURSO\Dia UI\Practica2\Temp\bin\Debug\Mono.Cecil.dll
+F:\Txasti\GoogleDrive\Curro\2017 02 Colombia\CURSO\Dia UI\Practica2\Temp\bin\Debug\Unity.SerializationLogic.dll
+F:\Txasti\GoogleDrive\Curro\2017 02 Colombia\CURSO\Dia UI\Practica2\Temp\bin\Debug\Unity.DataContract.dll
+F:\Txasti\GoogleDrive\Curro\2017 02 Colombia\CURSO\Dia UI\Practica2\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+F:\Txasti\GoogleDrive\Curro\2017 02 Colombia\CURSO\Dia UI\Practica2\Temp\bin\Debug\Unity.UNetWeaver.dll
+F:\Txasti\GoogleDrive\Curro\2017 02 Colombia\CURSO\Dia UI\Practica2\Temp\bin\Debug\Unity.CecilTools.dll
+F:\Txasti\GoogleDrive\Curro\2017 02 Colombia\CURSO\Dia UI\Practica2\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+F:\Txasti\GoogleDrive\Curro\2017 02 Colombia\CURSO\Dia UI\Practica2\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+F:\Txasti\GoogleDrive\Curro\2017 02 Colombia\CURSO\Dia UI\Practica2\Temp\bin\Debug\UnityEngine.xml
+F:\Txasti\GoogleDrive\Curro\2017 02 Colombia\CURSO\Dia UI\Practica2\Temp\bin\Debug\UnityEditor.xml
+F:\Txasti\GoogleDrive\Curro\2017 02 Colombia\CURSO\Dia UI\Practica2\Temp\bin\Debug\UnityEngine.UI.xml
+F:\Txasti\GoogleDrive\Curro\2017 02 Colombia\CURSO\Dia UI\Practica2\Temp\bin\Debug\UnityEngine.Networking.xml
+F:\Txasti\GoogleDrive\Curro\2017 02 Colombia\CURSO\Dia UI\Practica2\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+F:\Txasti\GoogleDrive\Curro\2017 02 Colombia\CURSO\Dia UI\Practica2\Temp\bin\Debug\UnityEngine.Analytics.xml
+F:\Txasti\GoogleDrive\Curro\2017 02 Colombia\CURSO\Dia UI\Practica2\Temp\bin\Debug\UnityEngine.HoloLens.xml
+F:\Txasti\GoogleDrive\Curro\2017 02 Colombia\CURSO\Dia UI\Practica2\Temp\bin\Debug\UnityEngine.VR.xml
+F:\Txasti\GoogleDrive\Curro\2017 02 Colombia\CURSO\Dia UI\Practica2\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+F:\Txasti\GoogleDrive\Curro\2017 02 Colombia\CURSO\Dia UI\Practica2\obj\Debug\Assembly-CSharp.dll
+F:\Txasti\GoogleDrive\Curro\2017 02 Colombia\CURSO\Dia UI\Practica2\obj\Debug\Assembly-CSharp.pdb
