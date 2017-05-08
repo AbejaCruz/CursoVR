@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="inclu" size="1.000000 0.331250" />
+    <ImageTarget name="logoin" size="1.000000 1.000000" />
+    <ImageTarget name="51770" size="1.000000 0.800000" />
+    <ImageTarget name="Anime_maniakos_seiya_00" size="1.000000 1.344538" />
+  </Tracking>
+</QCARConfig>
